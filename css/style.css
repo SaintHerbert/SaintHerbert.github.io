@@ -1,0 +1,65 @@
+/*arriere plan*/
+  body {
+    background:url("https://64.media.tumblr.com/00ae735bad49180027bcea16c1051d85/tumblr_py870tIpE71uzwgsuo1_400.gifv");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+  }
+  /*page d'accueil*/
+
+  #accueil-heading{
+    text-align:center;
+    font-family:"fantasy",Papyrus;
+  }
+
+  
+  .lien-interne{
+    float:right;
+    width:100px;
+    height:200px;
+    border:2px solid rgb(224, 14, 14);
+    border-top:12px solid rgb(224, 14, 14);
+    padding:10px;
+    margin-right:40px;
+    position:relitive;
+
+
+  }
+  #mr-herbert{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border:5px solid rgb(224, 14, 14);
+
+  }
+/*page voyage parfait*/
+
+
+  #le-voyage-parfait{
+    text-align:center;
+  }
+  .voyage-heading{
+      font-family:"cursive",Lucida Handwriting;
+  }
+    
+  .soustitre-voyage{
+    font-style:italic;
+  }
+
+
+
+/*page du poeme*/
+
+    #poeme-text{
+      text-align:center;
+      font-style:italic;
+    }
+    #philippe-brat{
+      font-family:"Brush Script MT",cursive;
+      font-size:30px;
+      text-align:center;
+    }
+    #poeme-heading{
+      text-align:center;
+      font-style:oblique;
+    }
