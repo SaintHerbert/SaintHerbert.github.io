@@ -32,6 +32,8 @@
     border:5px solid rgb(224, 14, 14);
 
   }
+  /*appliquer des bordure et centre le tableau*/
+
   table,th,td{
     margin-left: auto;
     margin-right:auto;
